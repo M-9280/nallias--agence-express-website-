@@ -1,18 +1,10 @@
 body {
   margin: 0;
-  padding: 0;
-  background-color: #f7f9fc;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: sans-serif;
+  background-color: #f0f2f5;
+  color: #333;
 }
 
-h1 {
-  color: #005e7a;
+h1, p {
   text-align: center;
-  margin-top: 2rem;
-}
-
-p {
-  text-align: center;
-  color: #444;
-  font-size: 1.1rem;
 }
