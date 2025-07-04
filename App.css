@@ -118,10 +118,3 @@
     @apply bg-background text-foreground;
   }
 }
-section {
-  scroll-margin-top: 100px;
-}
-
-footer p {
-  font-size: 0.9rem;
-}
