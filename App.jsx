@@ -71,6 +71,7 @@ const ProductCard = ({ title, description, features, image, icon: Icon }) => (
 );
 
 function App() {
+  console.log("✅ Le composant App s'est bien chargé !");
   const products = [
     {
       title: "Assurance Automobile",
